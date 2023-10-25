@@ -134,7 +134,7 @@ document.addEventListener('DOMContentLoaded', function() {
   addRow("Tg.Secuiesc","11:00","Peco MOL")
   addRow("Brașov","12:00","Str.Hărmanului Nr.47B")
   addRow("Făgăraș","13:00","Peco OMV")
-  addRow("Sibiu","15:30-Pauză de masă șoferi","Peco MOL-Lângă Hornbach")
+  addRow("Sibiu","15:30","Peco MOL-Lângă Hornbach")
   addRow("Sebeș","16:00","Peco Rompetrol-Iviniș")
   addRow("Deva","17:00","Peco Petrom")
   addRow("Lugoj","18:30","Peco Petrom-Ieșire Autostradă A6")
