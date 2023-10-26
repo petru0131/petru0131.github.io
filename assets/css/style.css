@@ -777,6 +777,19 @@ th {
   #MEDIA QUERISE
 \*-----------------------------------*/
 
+
+@media (max-width: 540px) {
+  .hero .shape-1 {
+    width: 65px;
+    height: 65px;
+  }
+  
+  .hero .shape-2 {
+    width: 65px;
+    height: 65px;
+  }
+}
+
 /**
  * responsive for larger than 540px screen
  */
@@ -845,6 +858,7 @@ th {
 
 
 
+  
 
     
 }
@@ -911,6 +925,7 @@ th {
 
   .btn-outline { margin-inline: 0; }
 
+  
 }
 
 
