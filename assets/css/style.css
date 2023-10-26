@@ -788,6 +788,24 @@ th {
     width: 65px;
     height: 65px;
   }
+
+  .img-cover{
+    width: 260px;
+    height: 240px;
+  }
+
+  .img-holder{
+    width: 260px;
+    height: 240px;
+  }
+
+  .project-card{
+    display: block;
+    margin-left: 50px;
+    
+  }
+
+  
 }
 
 /**
